@@ -1,4 +1,4 @@
-## Hey, I'm Aavash 👋
+## Hi, I'm Aavash 👋
 
 CS @ Rutgers (BA, Econ minor, '28). I build AI-native products.
 
