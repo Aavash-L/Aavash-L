@@ -14,7 +14,7 @@ CS @ Rutgers (BA, Econ minor, '28). I build AI-native products.
 
 - **[True Star Contracting](https://truestarcontracting.com)** — Next.js 15 site with 60+ programmatic SEO pages for an NJ contractor.
 - **[Wings Citi Cafe](https://wingciticafe.com)** — Restaurant site with online ordering.
-- **[Urmi Threading Salon](https://urmithreadingsalon.com)** — Booking + gallery.
+- **[Urmi Threading Salon](https://urmithreadingsalon.com)** — Booking + Social Media Managment.
 
 ### Stack
 
