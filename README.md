@@ -7,8 +7,6 @@ CS @ Rutgers (BA, Econ minor, '28). I build AI-native products.
 ### What I'm building right now
 
 - **[Rotgen](https://rotgen.org)** — AI-powered short-form video platform. Currently at $30K MRR. Sole developer.
-- **[Mogfit](https://mogfit.xyz)** — AI outfit analysis app using vision-language models.
-- **[Dominus Capital](https://dominuscapitalofficial.com)** — Trading education platform.
 
 ### Client work
 
